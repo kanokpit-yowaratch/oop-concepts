@@ -23,9 +23,6 @@ npm link
 ## Link from other app to package
 ```bash
 npm link @kanokpit.y/oop-concepts
-
-# unlink from app to package
-npm unlink @kanokpit.y/oop-concepts
 ```
 
 ## Unlink from other app to package
