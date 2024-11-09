@@ -1,0 +1,25 @@
+{
+	"name": "@kanokpit.y/oop-concepts",
+	"version": "1.0.0",
+	"description": "A simple OOP Concepts written in TypeScript",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"scripts": {
+		"build": "tsc",
+		"start": "node dist/index.js"
+	},
+	"keywords": [
+		"oop",
+		"typescript"
+	],
+	"author": "Kanokpit",
+	"license": "ISC",
+	"dependencies": {
+		"typescript": "^5.6.3"
+	},
+	"devDependencies": {
+		"@types/jest": "^29.5.14",
+		"jest": "^29.7.0",
+		"ts-jest": "^29.2.5"
+	}
+}
